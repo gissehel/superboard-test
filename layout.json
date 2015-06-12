@@ -1,0 +1,8 @@
+{
+    "root" : "https://jen.gissehel.com/",
+    "grid" : "layout-6x4",
+    "jobs" : [
+        [ "test", "" ],
+        [ "test multiple exec", "" ]
+    ]
+}
